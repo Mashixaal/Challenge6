@@ -13,3 +13,4 @@ const text = () => {
 button.addEventListener("click", text);
 
 console.log(button);
+// mashixaal
